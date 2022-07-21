@@ -1,3 +1,5 @@
+**Development on Beako.js has stopped. Please see [Jito](https://github.com/ittedev/jito) for the successor.**
+
 # Beako.js
 
 ## What is Beako.js?
